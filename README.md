@@ -1,11 +1,13 @@
 <p align="center">
-  <img src="assets/demo.png" width="340" />
+  <img width="395" height="958" alt="CleanFrame demo screenshot"
+       src="https://github.com/user-attachments/assets/320501c3-1eb0-4c2a-b762-046a95cfde24" />
 </p>
 
 <h1 align="center">CleanFrame</h1>
 <p align="center">
   <b>Android (Kotlin + Jetpack Compose) приложение для удаления водяных знаков с помощью Inpainting (OpenCV).</b>
 </p>
+
 
 <p align="center">
   <a href="#-features">Features</a> •
